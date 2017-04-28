@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.social_media_url = "http://twitter.com/patrickmick"
 
   s.platform     = :ios, '8.0'
-  s.platform     = :tvos, '89.0'
+  s.platform     = :tvos, '9.0'
   s.requires_arc = true
 
   s.source_files = 'Source/*.swift'
